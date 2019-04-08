@@ -7,6 +7,11 @@ librivox api:
 https://librivox.org/api/info
 
 
+
+2019-04-08:
+Christian: forsøger at lave 003 og 004.
+Jonas: kigger på hvordan man laver en afspiller.
+
 Userstories:
 
 001: finde filer på telefonen: 
