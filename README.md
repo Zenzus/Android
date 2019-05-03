@@ -10,8 +10,8 @@ Beskrivelse:
 Vi vil lave en lydafspildningsapp der egner sig godt til lydbøger.
 1. prioritet
 Den skal kunne læse lydfiler i apparatets hukommelse.
-Vi se dem på skærmen og tillade afspildning.
-Brugeren skal kunne se progress bar, start/pause kanp osv. 
+Vi kan se dem på skærmen og tillade afspildning.
+Brugeren skal kunne se progress bar, start/pause knap osv. 
 Vores app skal skille sig ud ved at have god håndtering af spoling for store lydfiler
 (hvor det er svært at spole via. progressbaren)
 
@@ -22,6 +22,11 @@ Appen skal kunne lave og gemme bogmærker, som gemmes i appens hukommelse, dvs. 
 "Sleep mode": appen vil stoppe af sig selv efter et aftalt stykke tid,
 så brugeren kan lægge sig til at sove uden at hele bogen afspilles.
 
+4. prioritet:
+avanceret sleepmode hvor brugeren kan se hvornår appen sidst bevægede sig (der hvor man tabte telefonen fordi man faldt i søvn)
+
+5. prioritet:
+man kan downloaded lydfiler til sin app fra nette. f.eks. fra librivox.com (public domain bøger)
 
 
 
