@@ -6,6 +6,24 @@ https://librivox.org/robinson-crusoe-by-daniel-defoe/
 librivox api:
 https://librivox.org/api/info
 
+Beskrivelse: 
+Vi vil lave en lydafspildningsapp der egner sig godt til lydbøger.
+1. prioritet
+Den skal kunne læse lydfiler i apparatets hukommelse.
+Vi se dem på skærmen og tillade afspildning.
+Brugeren skal kunne se progress bar, start/pause kanp osv. 
+Vores app skal skille sig ud ved at have god håndtering af spoling for store lydfiler
+(hvor det er svært at spole via. progressbaren)
+
+2. prioritet:
+Appen skal kunne lave og gemme bogmærker, som gemmes i appens hukommelse, dvs. hver lydfil har sin egen liste af bogmærker
+
+3. prioritet:
+"Sleep mode": appen vil stoppe af sig selv efter et aftalt stykke tid,
+så brugeren kan lægge sig til at sove uden at hele bogen afspilles.
+
+
+
 
 
 2019-04-08:
